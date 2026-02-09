@@ -18,3 +18,6 @@ Python
 
 ## Author
 Priyanka Kumari
+## Project Output
+
+![Output](output.png)
